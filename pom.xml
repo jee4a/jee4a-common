@@ -91,10 +91,5 @@
 			<artifactId>kaptcha</artifactId>
 			<version>${kaptcha.version}</version>
 		</dependency>
-		<dependency>
-		    <groupId>com.alibaba.boot</groupId>
-		    <artifactId>dubbo-spring-boot-starter</artifactId>
-		    <version>${dubbo.version}</version>
-		</dependency>
 	</dependencies>
 </project>
